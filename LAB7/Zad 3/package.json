@@ -2,7 +2,7 @@
   "name": "3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sebciulina.github.io/z3",
+  "homepage": "https://sebciulina.github.io/TFN",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
