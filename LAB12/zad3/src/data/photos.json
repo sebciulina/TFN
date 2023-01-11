@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "link": "https://images.unsplash.com/photo-1515444744562-a18f2fadb5af",
+      "author": "John Doe",
+      "date": "2022-01-01",
+      "otherDetails": "Taken in the mountains",
+      "score": 3.2
+    },
+    {
+      "id": 2,
+      "link": "https://images.unsplash.com/photo-1516750040423-4c8f4d4e4b86",
+      "author": "Jane Smith",
+      "date": "2022-02-15",
+      "otherDetails": "Taken at the beach",
+      "score": 4.5
+    },
+    {
+      "id": 3,
+      "link": "https://images.unsplash.com/photo-1517470178470-f5a55c8a66d5",
+      "author": "Mark Johnson",
+      "date": "2022-03-31",
+      "otherDetails": "Taken at a concert",
+      "score": 2.7
+    },
+    {
+      "id": 4,
+      "link": "https://images.unsplash.com/photo-1517646775797-f3e77cc6a8af",
+      "author": "Emily Williams",
+      "date": "2022-04-10",
+      "otherDetails": "Taken at a city park",
+      "score": 4.0
+    }
+  ]
+  
