@@ -18,7 +18,7 @@ export function Add() {
         const y = parseInt(searchParams.get("y"));
 
         setResult(`${x + y}`);
-    }, []);
+    }, [searchParams]);
 
     return (
         <div>
@@ -36,7 +36,7 @@ export function Sub() {
         const y = parseInt(searchParams.get("y"));
 
         setResult(`${x - y}`);
-    }, []);
+    }, [searchParams]);
 
     return (
         <div>
@@ -54,7 +54,7 @@ export function Mul() {
         const y = parseInt(searchParams.get("y"));
 
         setResult(`${x * y}`);
-    }, []);
+    }, [searchParams]);
 
     return (
         <div>
@@ -72,7 +72,7 @@ export function Div() {
         const y = parseInt(searchParams.get("y"));
 
         setResult(`${x / y}`);
-    }, []);
+    }, [searchParams]);
 
     return (
         <div>
